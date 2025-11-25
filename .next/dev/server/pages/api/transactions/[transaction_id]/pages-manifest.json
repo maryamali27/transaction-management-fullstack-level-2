@@ -1,0 +1,3 @@
+{
+  "/api/transactions/[transaction_id]": "pages/api/transactions/[transaction_id].js"
+}
